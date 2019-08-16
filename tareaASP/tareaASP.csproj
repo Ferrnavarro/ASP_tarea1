@@ -61,6 +61,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Buscadores.aspx" />
     <Content Include="colegios.aspx" />
     <Content Include="css\freelancer.css" />
     <Content Include="css\freelancer.min.css" />
@@ -114,6 +115,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Buscadores.aspx.cs">
+      <DependentUpon>Buscadores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Buscadores.aspx.designer.cs">
+      <DependentUpon>Buscadores.aspx</DependentUpon>
+    </Compile>
     <Compile Include="colegios.aspx.cs">
       <DependentUpon>colegios.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

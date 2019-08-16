@@ -116,7 +116,9 @@
             <span class="masthead-subheading font-weight-light mb-0">kevindanielr@gmail.com</span></p>
         </div>
           <p class="masthead-subheading font-weight-bold mb-0">¿Cómo me veo en 5 años? </p>
-        <p class="masthead-subheading font-weight-normal mb-0">Lorem ipsum dolor sit amet consectetur adipiscing elit lacus torquent nibh, montes gravida suspendisse sagittis class porta libero ut sapien, metus placerat erat integer nostra aenean ad non eros. Risus nascetur fames potenti phasellus duis magnis dignissim convallis vestibulum fringilla habitant, fermentum vulputate elementum curae nulla eget ac dui turpis lacus. Egestas condimentum semper sagittis litora dapibus varius, nibh augue nisi euismod vulputate, habitant neque per vitae malesuada. Rutrum penatibus aenean quis est duis tempus vivamus, turpis id mollis a nam integer, non dapibus hendrerit magnis fermentum pellentesque.</p>
+        <p class="masthead-subheading font-weight-normal mb-0">
+            Futuro Ingeniero en Ciencias de la computación, Full stack Developer y Auditor de Seguridad Informatica.
+        </p>
     </div>
   </header>
     </div>
