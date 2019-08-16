@@ -89,6 +89,7 @@
     <Content Include="js\freelancer.min.js" />
     <Content Include="js\jqBootstrapValidation.js" />
     <Content Include="js\jqBootstrapValidation.min.js" />
+    <Content Include="periodicos.aspx" />
     <Content Include="vendor\bootstrap\js\bootstrap.bundle.js" />
     <Content Include="vendor\bootstrap\js\bootstrap.bundle.min.js" />
     <Content Include="vendor\bootstrap\js\bootstrap.js" />
@@ -140,6 +141,13 @@
     </Compile>
     <Compile Include="Master1.Master.designer.cs">
       <DependentUpon>Master1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="periodicos.aspx.cs">
+      <DependentUpon>periodicos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="periodicos.aspx.designer.cs">
+      <DependentUpon>periodicos.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
