@@ -63,6 +63,7 @@
   <ItemGroup>
     <Content Include="Buscadores.aspx" />
     <Content Include="colegios.aspx" />
+    <Content Include="css\dropdownlist.css" />
     <Content Include="css\freelancer.css" />
     <Content Include="css\freelancer.min.css" />
     <Content Include="Default.aspx" />
@@ -91,6 +92,7 @@
     <Content Include="js\jqBootstrapValidation.js" />
     <Content Include="js\jqBootstrapValidation.min.js" />
     <Content Include="periodicos.aspx" />
+    <Content Include="udb.aspx" />
     <Content Include="vendor\bootstrap\js\bootstrap.bundle.js" />
     <Content Include="vendor\bootstrap\js\bootstrap.bundle.min.js" />
     <Content Include="vendor\bootstrap\js\bootstrap.js" />
@@ -158,6 +160,13 @@
       <DependentUpon>periodicos.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="udb.aspx.cs">
+      <DependentUpon>udb.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="udb.aspx.designer.cs">
+      <DependentUpon>udb.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Master1.Master" />
