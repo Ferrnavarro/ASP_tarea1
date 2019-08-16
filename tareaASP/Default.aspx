@@ -58,7 +58,7 @@
             <span class="masthead-subheading font-weight-light mb-0">ferbarriere06@gmail.com</span></p>
         </div>
           <p class="masthead-subheading font-weight-bold mb-0">¿Cómo me veo en 5 años? </p>
-        <p class="masthead-subheading font-weight-normal mb-0">En 5 años me visualizo como un ingeniero exitoso, con un buen empleo y emprendiendo pequeños proyectos con un buen grupo de socios, y también me veo estudiando una maestría en relación a la seguridad informática.</p>
+         <p class="masthead-subheading font-weight-normal mb-0">En 5 años me visualizo con un buen trabajo y estable, rodeado de personas que aprecio en busca de nuevos proyectos personales propuestos.</p>
     </div>
   </header>
     </div>
