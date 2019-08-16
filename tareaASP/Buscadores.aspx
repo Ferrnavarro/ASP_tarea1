@@ -135,10 +135,10 @@
                     es el motor de búsqueda más utilizado en la Web,2​ recibe cientos de millones de consultas cada día a través de sus diferentes servicios.3​ El objetivo principal del 
                     buscador de Google es buscar texto en las páginas web, en lugar de otro tipo de datos, fue desarrollado originalmente por Larry Page y Sergey Brin en 1997
                 </p>
-                <button class="btn btn-primary" href="#" data-dismiss="modal">
-                  <i class="fas fa-times fa-fw"></i>
-                  Cerrar
-                </button>
+                <a class="btn btn-primary" href="https://www.google.es/">
+                  <i class="fas fa-external-link-alt"></i>
+                  Abrir página
+                </a>
               </div>
             </div>
           </div>
@@ -178,10 +178,10 @@
                     A nivel mundial, ocupa el cuarto lugar (hasta agosto de 2018) por cuota de mercado durante el último año, con un 4,37%; después de Google (72,51%), Baidu (13,61%) y Bing (7,70%), según el sitio netmarketshare.com. <br /> <br />
                     Originalmente, Yahoo! Search comenzó como un directorio web de otros sitios Web, organizado en jerarquías, a diferencia de un índice que se pueden realizar búsqueda de páginas. En la década de los 90, Yahoo! se convirtió en un completo portal con una interfaz de búsqueda y en 2007, una versión limitada de búsqueda basados en la selección.
                 </p>
-                <button class="btn btn-primary" href="#" data-dismiss="modal">
-                  <i class="fas fa-times fa-fw"></i>
-                  Cerrar
-                </button>
+                <a class="btn btn-primary" href="https://search.yahoo.com/">
+                  <i class="fas fa-external-link-alt"></i>
+                  Abrir página
+                </a>
               </div>
             </div>
           </div>
@@ -221,10 +221,10 @@
                     <br />
                     Cambios notables incluyen la lista de sugerencias de búsqueda en tiempo real y una lista de las búsquedas relacionadas (llamado "Panel de explorador" en el lado izquierdo de los resultados de búsqueda), basado en tecnología semántica de Powerset3​ que Microsoft compró en el 2008.4​
                 </p>
-                <button class="btn btn-primary" href="#" data-dismiss="modal">
-                  <i class="fas fa-times fa-fw"></i>
-                  Cerrar
-                </button>
+                <a class="btn btn-primary" href="https://www.bing.com/?setlang=es">
+                  <i class="fas fa-external-link-alt"></i>
+                  Abrir página
+                </a>
               </div>
             </div>
           </div>
@@ -260,10 +260,10 @@
                 <img class="img-fluid rounded mb-5" src="https://ciunt.com/wp-content/uploads/2019/03/duckduckgo-800x450.jpg" alt="">
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">Una característica fundamental de un buscador como Google con respecto a los directorios de páginas es que no requiere una parte humana que verifique e indexe los resultados, sino que funciona a base de un algoritmo que automatizan la tarea de la cual se encarga robots o arañas (spiders). De este proceso conocido como Page Rank, derivan dos tipos de prácticas de la trasnacional para su política comercial, de la cual se generan la mayoría de sus ingresos: posicionamiento pagado (a la cabeza de la lista de los resultados de búsqueda) e indexar con mayor frecuencia ciertos sitios (inclusión pagada).</p>
-                <button class="btn btn-primary" href="#" data-dismiss="modal">
-                  <i class="fas fa-times fa-fw"></i>
-                  Cerrar
-                </button>
+                <a class="btn btn-primary" href="https://duckduckgo.com/">
+                  <i class="fas fa-external-link-alt"></i>
+                  Abrir página
+                </a>
               </div>
             </div>
           </div>
@@ -299,10 +299,10 @@
                 <img class="img-fluid rounded mb-5" src="https://i.blogs.es/c57c40/ask/450_1000.jpg" alt="">
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">La idea que dio lugar a Ask.com fue la capacidad de responder preguntas realizadas en lenguaje natural. Ask.com fue el primer buscador comercial del tipo pregunta-respuesta desarrollado para WWW. Permite una amplia variedad de consultas realizadas en inglés, así como las tradicionales búsquedas con palabras clave, y pretende que las búsquedas sean más intuitivas que con los otros buscadores. Ask Jeeves vendió la misma tecnología que utiliza en el sitio Ask.com a distintas empresas como Dell, Toshiba e E*Trade. Parte de la empresa fue vendida a Kanisa en el año 2002.</p>
-                <button class="btn btn-primary" href="#" data-dismiss="modal">
-                  <i class="fas fa-times fa-fw"></i>
-                  Cerrar
-                </button>
+                <a class="btn btn-primary" href="https://www.ask.com/">
+                  <i class="fas fa-external-link-alt"></i>
+                  Abrir página
+                </a>
               </div>
             </div>
           </div>
@@ -340,10 +340,10 @@
                 <p class="mb-5">
                     Ecosia es un motor de búsqueda en Internet que trabaja junto con el buscador Bing1​. Dona aproximadamente el 80% de los ingresos que percibe a diferentes organizaciones sin ánimo de lucro de todo el mundo relacionadas con la plantación de árboles. Tiene el objetivo de plantar mil millones de árboles antes del 2020. Ecosia GmbH tiene su sede en Berlín, Alemania, y cuenta con un equipo de unos 28 miembros.
                 </p>
-                <button class="btn btn-primary" href="#" data-dismiss="modal">
-                  <i class="fas fa-times fa-fw"></i>
-                  Cerrar
-                </button>
+                <a class="btn btn-primary" href="https://www.ecosia.org/?c=es">
+                  <i class="fas fa-external-link-alt"></i>
+                  Abrir página
+                </a>
               </div>
             </div>
           </div>
