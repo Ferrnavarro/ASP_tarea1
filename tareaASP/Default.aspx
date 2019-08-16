@@ -66,6 +66,35 @@
       <header class="masthead bg-primary text-white text-center">
     <div class="container d-flex align-items-center flex-column">
 
+        <!-- Masthead Avatar Image -->
+      <img class="masthead-avatar mb-5" src="img/fermagana.svg" alt="">
+
+      <!-- Masthead Heading -->
+      <h1 class="masthead-heading text-uppercase mb-0">Fernando Magaña</h1>
+
+      <!-- Icon Divider -->
+      <div class="divider-custom divider-light">
+        <div class="divider-custom-line"></div>
+        <div class="divider-custom-icon">
+          <i class="fas fa-star"></i>
+        </div>
+        <div class="divider-custom-line"></div>
+      </div>
+
+      <!-- Masthead Subheading -->
+        <div class="divider-custom-icon" style="display:inline-block">
+            <p class="masthead-subheading font-weight-light mb-0">Ing. en Ciencias de la Computación — <i class="fas fa-envelope"></i>
+            <span class="masthead-subheading font-weight-light mb-0">fer.maganavarro@gmail.com</span></p>
+        </div>
+          <p class="masthead-subheading font-weight-bold mb-0">¿Cómo me veo en 5 años? </p>
+        <p class="masthead-subheading font-weight-normal mb-0">En 5 años me veo estudiando una maestría en el extranjero.</p>
+    </div>
+  </header>
+    </div>
+    <div class="carousel-item">
+      <header class="masthead bg-primary text-white text-center">
+    <div class="container d-flex align-items-center flex-column">
+
       <!-- Masthead Avatar Image -->
       <img class="masthead-avatar mb-5" src="img/kevo.svg" alt="">
 
