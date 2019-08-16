@@ -71,6 +71,12 @@
     <Content Include="img\fermagana.svg" />
     <Content Include="img\kevo.svg" />
     <Content Include="img\myAvatar.png" />
+    <Content Include="img\periodicos\colatino.jpg" />
+    <Content Include="img\periodicos\elblog.jpeg" />
+    <Content Include="img\periodicos\elfaro.jpg" />
+    <Content Include="img\periodicos\elmundo.png" />
+    <Content Include="img\periodicos\elsalvadorcom.jpg" />
+    <Content Include="img\periodicos\lpg.jpg" />
     <Content Include="img\portfolio\cabin.png" />
     <Content Include="img\portfolio\cake.png" />
     <Content Include="img\portfolio\circus.png" />
@@ -182,6 +188,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
