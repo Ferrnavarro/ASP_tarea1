@@ -34,7 +34,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="https://s2.best-wallpaper.net/wallpaper/1920x1080/1607/Google-logo-green-background_1920x1080.jpg" alt="">
+            <img class="img-fluid" src="https://androidayuda.com/app/uploads/2016/10/Google-Logo.jpg" alt="">
           </div>
         </div>
 
@@ -128,7 +128,7 @@
                   <div class="divider-custom-line"></div>
                 </div>
                 <!-- Portfolio Modal - Image -->
-                <img class="img-fluid rounded mb-5" src="https://s2.best-wallpaper.net/wallpaper/1920x1080/1607/Google-logo-green-background_1920x1080.jpg" alt="">
+                <img class="img-fluid rounded mb-5" src="https://androidayuda.com/app/uploads/2016/10/Google-Logo.jpg" alt="">
                 <!-- Portfolio Modal - Text -->
                 <p class="mb-5">
                     El buscador de Google o buscador web de Google (en inglés Google Search) es un motor de búsqueda en la web propiedad de Alphabet Inc., 
